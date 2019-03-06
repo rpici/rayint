@@ -1,3 +1,4 @@
+#[[
 externalproject_add(ext_mve
     PREFIX          mve
     GIT_REPOSITORY  https://github.com/rpici/mve.git
@@ -8,3 +9,5 @@ externalproject_add(ext_mve
     BUILD_IN_SOURCE true
     INSTALL_COMMAND ""
 )
+]]
+
